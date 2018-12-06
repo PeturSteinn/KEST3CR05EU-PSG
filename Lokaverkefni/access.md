@@ -1,11 +1,8 @@
-# Access
-
-### Tækniskólinn - Net-aðgangur
+# Tækniskólinn - Net-aðgangur
 
 | Heiti                | IP Address   | Username | Password/Secret | Service |
 | -------------------- | ------------ | -------- | --------------- | ------- |
 | Skolavarda-Servers   |              |          |                 |         |
-|                      | 10.1.151.18  | admin    | tskoli          | SSH     |
 |                      | -            | -        | tskoli          | Enable  |
 | SkolavardaSkrifstofa |              |          |                 |         |
 |                      | 10.99.99.2   | admin    | tskoli          | SSH     |
@@ -29,8 +26,3 @@
 |                      | -            | -        | tskoli          | Enable  |
 | Hateigsvegur-Edge    |              |          |                 |         |
 |                      | -            | -        | tskoli          | Enable  |
-|                      |              |          |                 |         |
-|                      |              |          |                 |         |
-|                      |              |          |                 |         |
-|                      |              |          |                 |         |
-|                      |              |          |                 |         |

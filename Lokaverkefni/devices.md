@@ -1,6 +1,4 @@
-# Devices
-
-### Tækniskólinn - Tæki
+# Tækniskólinn - Tæki
 
 | Heiti                     | Network      | IP Address   | Default Gateway | Subnetmask      | Interface     |
 | ------------------------- | ------------ | ------------ | --------------- | --------------- | ------------- |

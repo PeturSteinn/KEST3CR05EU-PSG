@@ -1,6 +1,4 @@
-# General
-
-### Tækniskólinn - Net skipulag
+# Tækniskólinn - Net skipulag
 
 | Staður                         | VLAN                 | Heiti                 | IP Address   | Subnet mask     |
 | ------------------------------ | -------------------- | --------------------- | ------------ | --------------- |
